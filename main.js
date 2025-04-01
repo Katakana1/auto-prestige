@@ -83,7 +83,7 @@ function updateVars(){
   }
   
   document.getElementById("layers").innerHTML = str;
-  document.getElementsByTagName("p")[targetLayer].style.color = "#FF0000";
+  document.getElementsByTagName("p")[targetLayer].style.color = "#00B000";
   
   date = Date.now();
 } // Updates points and layer information each tick.
