@@ -1,0 +1,25 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: arial, sans-serif;
+  margin: 2em;
+  font-size: 1.5em;
+  background: black;
+  color: white;
+}
+
+button {
+  font-size: 1em;
+  background: black;
+  color: white;
+  border: 2px solid white;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.number {
+  color: yellow;
+  font-weight: bold;
+}
